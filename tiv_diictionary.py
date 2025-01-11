@@ -20,7 +20,8 @@ dictionary = {
      "ate": "father", "mbe": "mother", "iyor": "child", "aondo": "brother",
      "atema": "sister", "tsu": "water","sha": "drink","kuma": "farm","or":
      "house","ager": "farming","mkpakpa": "casssava","atuur": "yam","anongo":
-     "goat","itsu": "sun","aza": "moon","vough": "leave","kwagh": "forest"
+     "goat","itsu": "sun","aza": "moon","vough": "leave","kwagh": "forest",
+        "ver": "come", "ndeve": "good morning","sape": "goodnight",
     }
 }
 window = Tk()
