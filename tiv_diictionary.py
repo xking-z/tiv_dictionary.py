@@ -30,7 +30,7 @@ window.title("Dictionary")
 lan= ["tiv"]
 language = StringVar(window)
 language.set("Select Language")
-lang_menu=OptionMenu(window,language,lan)
+lang_menu=OptionMenu(window,language,*lan)
 lang_menu.pack()
 word_label = Label(window,text="EnterWord:")
 word_label.pack()
